@@ -46,3 +46,10 @@
   gap: 20px;
   justify-content: center;
 }
+
+.card{
+  border: 2px solid gold;
+  margin: 10px;
+  padding: 10px;
+  border-radius: 20px;
+}
